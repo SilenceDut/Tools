@@ -1,2 +1,2 @@
-# -
-File-Setting_editor-Colors&Fonts-scheme
+# -设置方式
+File-Setting-editor-Colors&Fonts-scheme
